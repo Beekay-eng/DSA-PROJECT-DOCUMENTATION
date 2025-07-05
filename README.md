@@ -11,4 +11,15 @@ This Data Analysis project is to provide e-commerce analytics solutions to selle
 # Excel Dashboard
 ## Data TOOLS
 _ MS Excel for Data Cleaning
+. For Data collection
+. For Data cleaning
+1. Data Manipulation
+2.  Data Munching 
+**Pivot Table
+**Ms Power Point( for presentation)
+## Data Cleaning and Preparation
+In the initial phase at the data cleaning and preparations, we perform the following actions.
+  Data Loading & Inspection
+  Handling missing variable
+  Data cleaning and formatting
 
